@@ -2,7 +2,7 @@
   "name": "pirateflix",
   "version": "1.0.14",
   "description": "Stream piratebay movies directly from CLI",
-  "repository": "weslleyaraujo/pirateflix",
+  "repository": "orinocoz/pirateflix",
   "main": "index.js",
   "scripts": {
     "start": "node src/cli.js",
